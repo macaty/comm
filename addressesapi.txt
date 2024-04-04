@@ -3,7 +3,6 @@ yungkee.buys.hk
 xn--b6gac.eu.org
 www.zsu.gov.ua
 www.zeissfans.net
-www.yiaa.hk
 www.xcdex.net
 www.wto.org
 www.wordtoyourmotherblog.com
@@ -40,9 +39,7 @@ www.innocarnival.hk
 www.iakeys.com
 www.hugedomains.com
 www.groupeperrier.com
-www.gov.ua
 www.gov.se
-www.goldenhoward.com.hk
 www.glassdoor.com
 www.gies.hk
 www.gco.gov.qa
@@ -100,12 +97,11 @@ japan.com
 ip.sb
 icook.tw
 hk.wumaojichang.com
-hk.police.gov.ua
 hk.investing.com
 hk.hdistore.com
 go.wumaojichang.com
 goldenhoward.com.hk
-fr.wumaojichang.com
+fr.wumaojichang.co
 fbi.gov
 enviocero.com
 email.scout.org.hk
@@ -115,7 +111,6 @@ easytv.com.hk
 donate.unicef.org.hk
 doll.com.hk
 dnschecker.org
-diabetesstrong.com
 dev.calvinklein.com.hk
 ct.090227.xyz
 comicabc.com
