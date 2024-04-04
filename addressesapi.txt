@@ -171,8 +171,6 @@ ams.altamm.com.hk
 alejandracaiccedo.com
 acjp.cloudflarest.link
 achk.cloudflarest.link
-[root@240D123 ~]# sort aa.txt | uniq|sort -rn >> ass.txt
-[root@240D123 ~]# more ass.txt 
 32b8a7e3.pinganbt.com
 9.868896.xyz
 8.868896.xyz
